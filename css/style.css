@@ -63,7 +63,7 @@ footer{
     border: 1px dotted #FFF;
     margin-top: 20px;
     border-radius: 15px;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(38, 52, 245, 0);
 }
 
 .titulo{
@@ -92,14 +92,14 @@ footer{
 
 .tempTitulo,
 .ventoTitulo{
-    color: #777;
+    color: orange;
     font-size: 16px;
     margin-bottom: 5px;
 }
 
 .tempInfo,
 .ventoInfo {
-    color: #FFF;
+    color: fuchsia;
     font-size: 30px;
     font-weight: bold;
 }
@@ -117,7 +117,7 @@ footer{
 .ventoArea{
     width: 50px;
     height: 50px;
-    border: 1px solid #FFF;
+    border: 1px solid orangered;
     border-radius: 50%;
     margin: auto;
     margin-top: 20px;
@@ -128,7 +128,7 @@ footer{
 .ventoPonto {
     width: 15px;
     height: 1px;
-    background-color: #FFF;
+    background-color: red;
     transform-origin: left;
 }
 
